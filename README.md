@@ -1,4 +1,4 @@
-![Burj Khalifa](https://github.com/user-attachments/assets/5b9e36ba-9572-4754-b262-a7f61d7d2bb4)
+![Burj Khalifa](https://github.com/user-attachments/assets/2205e534-68b3-47af-8eca-e59ecd005cbb)
 
 > Simulate the experience of accommodation at the Burj Khalifa.
 
